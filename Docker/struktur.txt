@@ -1,0 +1,57 @@
+
+Teil 1:
+
+------ Warum Container? -------------
+
+-> was ist es 
+
+-> Container vs VM 
+
+-> architektur:
+-Docker engine
+
+-------- Nutzung ----------------------
+
+-> File->Image->Container 
+
+-> Docker registry:
+- Dockerhub
+
+-> Nutzungszwecke:
+Web-applicationen
+
+---------- Security ------------------- 
+-> Angriffe zeigen
+
+-> Abwehren/best practices 
+
+-> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
